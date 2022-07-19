@@ -1,33 +1,26 @@
-### Profile
-Hey 👋 there!!,
-Zack Atama from Uganda, and I do UX Design and Web Development. I really enjoy learning new tools, frameworks and web development technologies that simplify my work, I am currently working with Figma for my UX Design work, ReactJS and Material-UI for Frontend development, Node and ExpressJS for most of my Backend tasks.
+[<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/stackoverflow.png' alt='stackoverflow' height='30' align="right">](https://stackoverflow.com/users/https://stackoverflow.com/users/9900080/zack-atama) [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/twitter.png' alt='twitter' height='30' align="right">](https://twitter.com/https://twitter.com/ZackAtama) [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/linkedin.png' alt='linkedin' height='30' align="right">](https://www.linkedin.com/in/https://www.linkedin.com/in/zack-atama-901326a5//) [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/github.png' alt='github' height='30' align="right">](https://github.com/https://github.com/ZackAtama)
+----
 
-![Zack's GitHub stats](https://github-readme-stats.vercel.app/api?username=zackatama&hide=contribs,prs)
+# Zack Atama
+I'm from Uganda <img src='https://user-images.githubusercontent.com/19763840/179643513-90a8a28d-5e84-46d0-a24c-c55ef0ddd430.png' alt='Uganda Flag' height="15">
+, and I do UX Design and Web Development. I really enjoy learning new tools, frameworks and web development technologies that simplify my work, I am currently working with Figma for my UX Design work, ReactJS and Material-UI for Frontend development, Node and ExpressJS for most of my Backend tasks.
 
-```markdown
-Syntax highlighted code block
+<p align="center">
+<img width="33%" src="https://github-readme-stats.vercel.app/api?username=zackatama&count_private=true&show_icons=true&include_all_commits=true&hide=contribs" align="center"/>
+<img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs?username=zackatama&show_icons=true&locale=en&layout=compact" align = "center"/>
+<img width="37%" src="https://github-readme-stats.vercel.app/api/wakatime?username=zackatama" align="center"/> 
+ </p>
+ 
+### Work Experience and Projects
+#### [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/bumu.jpg' alt='Bumu Technologies' height='20' align="left">Bumu Technologies](https://bumutechnologies.com/)
+[<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/bumu-tech.png' alt='Bumu Technologies' height='300'>](https://bumutechnologies.com/)
+<!-- I was responsible for designing and building the website of technology based company called [Bumu Technologies](https://bumutechnologies.com/). -->
 
-# Header 1
-## Header 2
-### Header 3
+#### [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/aftp.jpg' alt='Arise For The Planet' height='20' align="left">Arise For The Planet](http://arisefortheplanet.org/)
+[<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/arisefortheplanet.png' alt='Arise For The Planet' height='300'>](http://arisefortheplanet.org/)
+<!-- I was responsible for designing and building the website of climatic change based organization called [Arise For The Planet](http://arisefortheplanet.org/). -->
 
-- Bulleted
-- List
+## UX Designs
+### TripScout Africa
+<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/tripscout3.jpg' alt='UX Design Layouts' height='700'>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZackAtama/zackatama.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
