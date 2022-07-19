@@ -10,6 +10,9 @@ I'm from Uganda <img src='https://user-images.githubusercontent.com/19763840/179
 <img width="37%" src="https://github-readme-stats.vercel.app/api/wakatime?username=zackatama" align="center"/> 
  </p>
  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+ 
 ### Work Experience and Projects
 #### [<img src='https://raw.githubusercontent.com/ZackAtama/zackatama/blob/main/assets/images/bumu.jpg' alt='Bumu Technologies' height='20' align="left">Bumu Technologies](https://bumutechnologies.com/)
 [<img src='https://raw.githubusercontent.com/ZackAtama/zackatama/blob/main/assets/images/bumu-tech.png' alt='Bumu Technologies' height='300'>](https://bumutechnologies.com/)
