@@ -13,10 +13,11 @@ I'm from Uganda <img src='https://user-images.githubusercontent.com/19763840/179
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   24 hrs 6 mins   ███████████████████████▓░   94.73 %
-CSS          1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-Bash         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+JavaScript   20 hrs 6 mins   ███████████████████▒░░░░░   76.90 %
+Python       4 hrs 42 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.98 %
+CSS          1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+Bash         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
