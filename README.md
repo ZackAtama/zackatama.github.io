@@ -13,7 +13,7 @@ I'm from Uganda <img src='https://user-images.githubusercontent.com/19763840/179
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   0 secs          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
